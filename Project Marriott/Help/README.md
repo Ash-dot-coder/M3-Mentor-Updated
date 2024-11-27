@@ -49,14 +49,14 @@ root/
 ## 🖼️ Output View
 
 ### 1. Navigation Bar  
-![Navigation Bar]("Help/Images/redmeImage/navBar.png")
+![Navigation Bar](Images/redmeImage/navBar.png)
 
 ### 2. Hero Section  
-![Hero Section - 1]("Help/Images/redmeImage/heroSection-1.png")
-![Hero Section - 2]("Help/Images/redmeImage/heroSection-2.png")
+![Hero Section - 1](Images/redmeImage/heroSection-1.png)
+![Hero Section - 2](Images/redmeImage/heroSection-2.png)
 
 ### 3. Footer  
-![Footer]("Help/Images/redmeImage/footer.png")
+![Footer](Images/redmeImage/footer.png)
 
 ---
 
